@@ -1,10 +1,10 @@
 # admin_swords
 Minetest Admin Swords mod. Adds new exclusive swords for admin.
 
-Dependencies: 
-Default
-Bucket
-
+Dependencies: <br/>
+Default <br/>
+Bucket <br/>
+<br/>
 
 ##### License for Code
 
